@@ -1,4 +1,4 @@
-# CI/CD Workshop with CircleCI
+# CI/CD Workshop with CircleCI. 
 
 ## Prerequisites
 
